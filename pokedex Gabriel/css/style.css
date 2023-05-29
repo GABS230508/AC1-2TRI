@@ -1,0 +1,18 @@
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background: #ffffff;
+}
+.sec1{
+    background-image: url("../imagens/image5.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:350px;
+    box-sizing: border-box;
+
+
+}
+body{
+    background: #470000;
+}
